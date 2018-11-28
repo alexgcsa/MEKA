@@ -12,6 +12,6 @@ Main differences to the original version:
 
 
 
-If you are using this framework, please cite its paper:
+**If you are using this framework, please cite its paper:**
 
 => J. Read, P. Reutemann, B. Pfahringer and G. Holmes. MEKA: A Multi-label/Multi-target Extension to WEKA. The Journal of Machine Learning Research, 17(1), 667-671, 2016. Available at: http://jmlr.org/papers/v17/12-164.html.
